@@ -12,7 +12,7 @@ The task involves selecting the color scheme for the website based on user feedb
 2. The colors should be easy on the eyes and not strain the user's vision.
 3. The color scheme should complement the branding of MyWebClass.
 ## Dependencies: None
-## Effort Estimate: 2 weeks
+## Effort Estimate: 3 days
 ## Assigned To: D'Angelo
 ## Priority: High
 ## Status: Not started
