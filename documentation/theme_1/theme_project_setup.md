@@ -11,7 +11,7 @@ relevant and effective in the rapidly changing online landscape.
 
 * [Initial Project Documentation](../../documentation/theme_1/initiatives/initiative_one.md)
 * [Collaborative Practices through CI/CD Devops Continuous Integration](../../documentation/theme_1/initiatives/initiative_two.md)
-* [Create an initial web page template](initiatives/initiative_webpage_template.md)
+* [Create an initial web page template](../../documentation/theme_1/initiatives/initiative_three.md)
 
 ## Test plan
 1. Google Analytics and Privacy Policies will be integrated

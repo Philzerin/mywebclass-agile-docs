@@ -11,4 +11,4 @@
 
 
 # List Stories related to this theme
-1. [Stories 1](../../../../../documentation/theme_1/initiatives/epics/stories/tasks/task_two.md)
+1. [Stories 2](../../../../../documentation/theme_1/initiatives/epics/stories/tasks/task_two.md)
