@@ -9,7 +9,7 @@ agile principles will enable us to adapt quickly to changing circumstances and e
 relevant and effective in the rapidly changing online landscape.
 ## Initiative(s)
 
-* [Initial Project Documentation](initiatives/documentation_initiative.md)
+* [Initial Project Documentation](../../documentation/theme_1/initiatives/initiative_one.md)
 * [Collaborative Practices through CI/CD Devops Continuous Integration]()
 * [Create an initial web page template](initiatives/initiative_webpage_template.md)
 
