@@ -30,7 +30,7 @@ This epic focuses on integrating a continuous integration/continuous deployment 
 1. Careful planning and communication with all team members.
 2. Thorough testing and documentation of the CI/CD pipeline.
 
-# Estimated Effort: 2-3 weeks
+# Estimated Effort: 2 weeks
 
 # Business Value:
 
