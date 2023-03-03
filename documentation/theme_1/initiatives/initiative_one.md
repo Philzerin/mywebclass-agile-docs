@@ -1,14 +1,15 @@
 # Initial Project Documentation for MyWebClass.Org
 
 
-## Description: This initiative involves the creation of the initial project documentation for MyWebClass.org, a school project that will be executed by a group of students. This documentation will serve as a roadmap for the project, outlining the goals, scope, outcomes, deliverables, milestones, constraints, assumptions, risks, and dependencies.
+## Description: 
+This initiative involves the creation of the initial project documentation for MyWebClass.org, a school project that will be executed by a group of students. This documentation will serve as a roadmap for the project, outlining the goals, scope, outcomes, deliverables, milestones, constraints, assumptions, risks, and dependencies.
 
 ## Goals:
 
-To create a clear and comprehensive project roadmap for MyWebClass.org
-To ensure that all group members have a shared understanding of the project goals and objectives
-To establish a framework for project planning and execution
-To identify and mitigate potential risks and issues
+1. To create a clear and comprehensive project roadmap for MyWebClass.org
+2. To ensure that all group members have a shared understanding of the project goals and objectives
+3. To establish a framework for project planning and execution
+4. To identify and mitigate potential risks and issues
 
 ## Scope:
 The scope of this initiative includes the creation of the initial project documentation for MyWebClass.org. This includes the identification of project goals and objectives, project deliverables, major milestones, constraints, assumptions, risks, and dependencies.
