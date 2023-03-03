@@ -11,7 +11,7 @@ Teachers can upload course materials in different formats, such as PDF, DOC, and
 Teachers can add tags to course materials for easy searching and filtering.
 Students can view the uploaded course materials by subject.
 
-# Effort Estimate: 3 weeks
+# Effort Estimate: 3.5 weeks
 
 # Assigned To: D'Angelo Morales
 
