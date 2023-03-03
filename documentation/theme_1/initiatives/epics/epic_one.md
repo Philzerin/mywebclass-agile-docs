@@ -25,7 +25,7 @@ Prioritize project deliverables based on importance and feasibility
 Monitor project progress regularly and adjust plans as needed
 Identify and secure necessary resources as early as possible
 
-## Estimated Effort: 3-4 weeks
+## Estimated Effort: 3-4 hours
 
 # Business Value: 
 The initial project documentation will ensure that all group members have a shared understanding of the project goals and objectives, which will lead to a more efficient and effective project execution. 
