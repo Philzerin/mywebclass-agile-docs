@@ -23,7 +23,7 @@ The MyWebClass Website Template initiative is focused on designing and developin
 1. Website design may not meet user expectations
 2. Implementation may take longer than anticipated
 3. Technical difficulties may arise during development
-Estimated Effort: 2-3 weeks
+# Estimated Effort: 2 days
 
 # Business Value:
 
